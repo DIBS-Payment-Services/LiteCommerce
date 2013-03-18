@@ -1,4 +1,4 @@
-LiteCommerce
-============
+Lite Commerce
+=====
 
-DIBS LiteCommerce Shop Module
+This file will soon be updated with installation guide.

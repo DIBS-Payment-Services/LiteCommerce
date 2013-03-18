@@ -1,0 +1,22 @@
+XLite\Model\Payment\Method:
+  - service_name: Dibs Payment Window
+    class: Module\Dibs\DibsPayWin\Model\Payment\Processor\DibsPayWin
+    translations:
+      - code: en
+        name: Dibs Payment Window
+    settings:
+      - name: enabled
+      - name: merchantid
+      - name: hmac
+      - name: test
+        value: yes
+      - name: addfee
+        value: no
+      - name: capturenow
+        value: no 
+      - name: paytype
+      - name: language 
+        value: en_UK
+      - name: account
+      - name: distributiontype
+
